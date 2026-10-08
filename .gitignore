@@ -43,3 +43,5 @@ Thumbs.db
 *.tmp
 *.log
 *.pcap_large
+MENSAJE_COMPANERO.md
+*.local.md
