@@ -1,0 +1,10 @@
+# CTF & Security Analysis Core Stack
+pwntools
+requests
+httpx
+pycryptodome
+z3-solver
+scapy
+beautifulsoup4
+tqdm
+sympy
