@@ -8,3 +8,5 @@ scapy
 beautifulsoup4
 tqdm
 sympy
+numpy
+python-flint

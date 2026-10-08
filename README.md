@@ -65,6 +65,28 @@ flowchart LR
 
 ---
 
+## 🏆 Desafíos Resueltos & Solvers Automatizados
+
+| # | Desafío | Vector / Categoría | Técnica / Solver | Bandera |
+| :-: | :--- | :--- | :--- | :--- |
+| **01** | `01_crackme` | Reversing / Math | Z3 Theorem Prover | `ANCI{ANCI-SFKK-2026!@}` |
+| **02** | `02_secretos_compartidos` | Cryptography (DH) | Leaked Private Key $b$ | `academy{dh_s3cr3t_5d9c8fbe}` |
+| **03** | `03_timestamp_aes` | Crypto / PRNG | Time-seeded AES-ECB Brute Force | `academy{sa3S_sEc9t_57326579}` |
+| **04** | `04_rot13` | Crypto (Classical) | Double ROT-13 Decryption | `academy{next_time_I'll_try_2_rounds_of_rot13_5c5f5b36}` |
+| **05** | `05_the_numbers` | Steganography / Crypto | A1Z26 Alphabet Index Cipher | `PICOCTF{THENUMBERSMASON}` |
+| **06** | `06_multi_layer_decode` | Crypto / Encoding | Multi-layer Base64 + Caesar (+19) | `academy{caesar_d3cr9pt3d_9948dfa2}` |
+| **07** | `07_metadata_key` | Forensics / Crypto | JPEG EXIF Hex RSA Private Key | `academy{rs4_k3y_1n_1mg_9db27b2c}` |
+| **08** | `08_hashcrack` | Crypto / Network | Multi-round MD5 / SHA-1 / SHA-256 TCP | `academy{UseStr0nG_h@shEs_&PaSswDs!_062c2b77}` |
+| **09** | `09_rsa_factoring` | Cryptography (RSA) | Weak RSA with Even Prime Factor $p=2$ | `academy{tw0_1$_pr!m3d832b35c}` |
+| **10** | `10_rsa_small_d` | Cryptography (RSA) | Small Private Exponent $d$ (Wiener Attack) | `academy{sm4ll_d_073cf0e5}` |
+| **11** | `11_web_twitter` | Web / Auth Bypass | Information Disclosure & Session Hijacking | `academy{s3t_s3ss10n_3xp1rat10n5_3a931aa0}` |
+| **12** | `12_2fa_bypass` | Web / Auth Bypass | Leaked SQLite DB & Flask Cookie Tampering | `academy{n0_r4t3_n0_4uth_359dd2cb}` |
+| **13** | `13_employee_id_hash` | Web / Access Control | MD5 Employee ID IDOR Enumeration | `academy{id0r_unl0ck_34378399}` |
+| **14** | `14_secure_dot_product` | Crypto (Hard) | SHA-512 Length Extension + 32-Var Linear System | `academy{n0t_so_s3cure_.x_w1th_sh@512_41e4af34}` |
+| **15** | `15_lattice_crypto` | Crypto (Hard / Lattice) | Kannan's Embedding + C-FLINT LLL Reduction | `academy{MSS_Advance_but_we_brought_it_back_and_made_it_harder!!!}` |
+
+---
+
 ## 🛠️ Instalación y Uso Rápido
 
 ```bash
