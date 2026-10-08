@@ -1,9 +1,9 @@
 # 🛡️ AI-Augmented Cybersecurity & CTF Acceleration Framework
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Security Framework](https://img.shields.io/badge/Security-Ley%20N°21.663%20Chile-green.svg)](https://www.bcn.cl/leychile/navegar?idNorma=1202452)
-[![Platform](https://img.shields.io/badge/Target-ANCI%20%7C%20HackRocks-orange.svg)](https://anci.hackrocks.com)
-[![Status](https://img.shields.io/badge/Status-Active%20Preparation-success.svg)]()
+[![Security Framework](https://img.shields.io/badge/Security-Industry%20Standard-green.svg)]()
+[![Platform](https://img.shields.io/badge/Target-CTF%20%7C%20HackTheBox%20%7C%20HackRocks-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
 > **Framework de respuesta rápida, triage forense, ingeniería inversa y resolución de retos de ciberseguridad asistido por Inteligencia Artificial colaborativa (Human-in-the-Loop).**
 
@@ -11,7 +11,7 @@
 
 ## 🎯 Visión y Propósito
 
-Este repositorio documenta el stack técnico, las metodologías de triage automatizado y los solvers utilizados para el **Primer Ejercicio Nacional de Ciberseguridad de Chile (ANCI / HackRocks)**.
+Este repositorio documenta el stack técnico, las metodologías de triage automatizado y los solvers utilizados para **competencias de CTF (Capture The Flag) y auditorías de seguridad práctica**.
 
 Más allá del ámbito competitivo, este proyecto demuestra cómo la integración de **modelos avanzados de IA como copilotos de seguridad** acelera drásticamente las capacidades operativas de un equipo (Blue Team / Red Team / CSIRT), permitiendo:
 1. **Reducción del MTTR (Mean Time to Respond):** De horas a minutos mediante scripting y desofuscación inmediata.
